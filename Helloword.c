@@ -3,6 +3,7 @@
 
 int main(){
     printf("Hello, world! \n");
+    printf("Seja bem-vindo! \n");
     system("pause");
     //primeiro programa em C, Que DEUS abençõe nessa jornada
 }
