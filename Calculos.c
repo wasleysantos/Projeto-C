@@ -5,6 +5,7 @@ int main(){
     int num1, num2, soma, subt, multi, divi;
 
     printf("Digite o primeiro valor:\n");
+    printf("Digite o primeiro valor:\n");
     scanf("%d", &num1);
     printf("Digite o segundo valor:\n");
     scanf("%d", &num2);
