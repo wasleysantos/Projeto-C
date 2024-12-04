@@ -7,7 +7,7 @@ int main() {
 
     while(num<=100000){
         printf("%d\n", num);  
-        num += 100;   
+        num += 200;   
     }  
 
     return 0;  
